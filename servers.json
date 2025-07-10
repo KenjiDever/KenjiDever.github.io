@@ -52,6 +52,10 @@
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
     }
+    {
+      "name": "Kenji's Server",
+      "address": "https://bingbong-w7q9.onrender.com"
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
